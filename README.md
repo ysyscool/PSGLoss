@@ -13,5 +13,4 @@ If you use any part of our code, or PSGLoss is useful for your research, please 
 }
 ```
 
-======================================================================================
 The code will be released ASAP.

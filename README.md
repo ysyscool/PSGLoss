@@ -16,7 +16,7 @@ If you use any part of our code, or PSGLoss is useful for your research, please 
   doi={10.1109/TIP.2021.3113794}}
 ```
 
-The code will be released ASAP.
+model ckpt and results can be found in [this link](https://drive.google.com/file/d/1aVp6oM1Qrv5cO97oFqOGbz3IwDqmgsNE/view?usp=sharing) 
 
 ## Requirements
 * Pytorch 0.4 !!!
